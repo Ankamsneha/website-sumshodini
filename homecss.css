@@ -1,0 +1,81 @@
+header {
+    text-align: center;
+    background-color: rgb(112, 41, 98);
+    padding-top: 15px;
+    padding-bottom: 20px;
+    color: white;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 5px rgb(255, 139, 215);
+    font-family: Lucida Consolea;
+    font-size: 20px;
+}
+header h3{
+    text-decoration: none;
+    font-size: small;
+}
+
+nav {
+    background-color: rgb(99, 79, 99);
+    overflow: hidden;
+}
+
+nav a {
+    color: white;
+    padding: 20px;
+    text-align: center;
+    float: left;
+    text-decoration: none;
+    letter-spacing: 2px;
+}
+
+table {
+    width: 100%;
+    background-color: white;
+    border-collapse: separate;
+    border-spacing: 50px;
+    font-family:Copperplate, Papyrus, fantasy;
+    font-size:small;
+}
+
+td {
+    background-color: rgb(55, 59, 59);
+    border: 1px solid rgb(168, 165, 165);
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 0.5cm;
+    color: white;
+    letter-spacing:2px;
+    font-size:small;
+}
+td:hover{
+    background-color: rgb(134, 137, 137);
+}
+.h3{
+    font-size: 2px;
+}
+
+.p1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+footer {
+    background-color: black;
+    overflow: hidden;
+    color: white;
+    letter-spacing: 2px;
+}
+
+footer a {
+    text-decoration: none;
+    padding: 30px;
+    color: white;
+    float: left;
+    letter-spacing:0.5px;
+}
+
+.p {
+    white-space: pre;
+}
