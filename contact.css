@@ -5,26 +5,10 @@ body {
     text-align: center;
   }
 
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 20px;
-  }
-
-  table, th, td {
-    border: 1px solid #ccc;
-  }
-
-  th, td {
-    padding: 20px;
-    text-align: center;
-  }
-
   img {
     max-width: 100%;
     height: auto;
     display: block;
-    margin: 0 auto;
-    border-radius: 10%;
+    padding:10px;
   }
   
