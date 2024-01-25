@@ -21,7 +21,7 @@ header {
             width: 100px; /* Adjust the width as needed */
             height: auto; /* Maintain aspect ratio */
             position: absolute;
-            left: 10px; /* Adjust the left position as needed */
+            right: 10px; /* Adjust the left position as needed */
             top: 50%; /* Align to the vertical center of the header */
             transform: translateY(-50%); /* Center the logo vertically */
         }
