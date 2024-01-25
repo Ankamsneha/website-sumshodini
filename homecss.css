@@ -42,6 +42,9 @@ nav {
             text-decoration: none;
             color: white;
         }
+nav a:hover {
+    color: #ffd700;
+}
 main {
     padding: 10px;
     background-color: #ecf0f1;
